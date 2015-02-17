@@ -13,7 +13,7 @@ The Funf Open Sensing Framework is an Android-based extensible framework, origin
 </p>
 
 <p>
-If you doing a research, collecting personal user data, and use Funf application as your data collector application you can use this project to extract and visualize your data. This project based on R programming language. 
+If you are doing a research, collecting personal user data, and use Funf application as your data collector application you can use this project to extract and visualize your data. This project based on R programming language. 
 </p>	
 
 <h3>Codes</h3>
