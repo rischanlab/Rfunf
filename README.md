@@ -30,7 +30,7 @@ The codes in this project contain four of important parts:
 
 If you have any questions about the project, don't hesitate to contact us:
 <ul>
-<li>Rischan Mafrur (<a href="mailto:rischandlab@gmail.com">rischandlab@gmail.com</a>)</li>
+<li>Rischan Mafrur (<a href="mailto:rischanlab@gmail.com">rischanlab@gmail.com</a>)</li>
 </ul>
 
 #### Contributions
