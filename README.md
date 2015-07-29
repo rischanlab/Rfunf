@@ -23,14 +23,14 @@ The codes in this project contain four of important parts:
 <li>Data Extraction : Codes for extracting data from raw data</li>
 <li>Data Visualization : Codes for visualize your data, based on ggplot, ggvis, or shiny web plot</li>
 <li>Utilities : Utilities codes </li>
-<li>Data Documentation : Data about the data, data documentation in Rmd format</li>
+<li>Data Documentation : Data about the data, data documentation in pdf format</li>
 </ol>
 
 <h3>Contact</h3>
 
 If you have any questions about the project, don't hesitate to contact us:
 <ul>
-<li>Rischan Mafrur (<a href="mailto:rischandroid@gmail.com">rischandroid@gmail.com</a>)</li>
+<li>Rischan Mafrur (<a href="mailto:rischandlab@gmail.com">rischandlab@gmail.com</a>)</li>
 </ul>
 
 #### Contributions
